@@ -3,6 +3,7 @@ extends Node2D
 @export var mob_scene: PackedScene
 var score = 0
 
+# Test for git commit
 func new_game():
 	score = 0
 	get_tree().call_group('mobs', 'queue_free')
