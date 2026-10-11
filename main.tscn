@@ -36,7 +36,7 @@ mob_scene = ExtResource("2_1bvp3")
 [node name="ColorRect" type="ColorRect" parent="." unique_id=2060396701]
 offset_right = 480.0
 offset_bottom = 728.0
-color = Color(0, 0.5491482, 0.54995733, 1)
+color = Color(7.70092e-07, 0.5744848, 0.824504, 1)
 
 [node name="HUD" parent="." unique_id=2030154303 instance=ExtResource("3_1bvp3")]
 
